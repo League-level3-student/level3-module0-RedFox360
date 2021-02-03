@@ -21,7 +21,6 @@ public class ColorArrayDisplayer {
                 image.setRGB(i, j, colors[i][j].getRGB());
             }
         }
-
         label.setIcon(new ImageIcon(image));
         window.add(label);
         window.pack();

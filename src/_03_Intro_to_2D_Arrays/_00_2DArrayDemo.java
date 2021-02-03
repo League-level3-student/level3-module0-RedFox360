@@ -1,6 +1,7 @@
 package _03_Intro_to_2D_Arrays;
 
 public class _00_2DArrayDemo {
+	// ARRAYCEPTION!
     public static void main(String[] args) {
         /* A two-dimensional array is simply an array of arrays.
          * The syntax for a two dimensional array is two square brackets [][]
